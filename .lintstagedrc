@@ -1,0 +1,7 @@
+{
+  "*.{md,yml,json}": "pnpm prettier",
+  "*.{js,ts,tsx}": [
+    "pnpm lint",
+    "pnpm prettier"
+  ]
+}
