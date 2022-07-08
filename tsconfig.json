@@ -20,6 +20,7 @@
     "forceConsistentCasingInFileNames": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "useDefineForClassFields": true,
     "outDir": "dist"
   },
   "include": ["src"],
